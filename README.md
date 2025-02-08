@@ -1,5 +1,4 @@
-# set-1
-Practical -1 
+
 while True:
     ch = int(input("Enter your choice:\n1. Fahrenheit to Celsius\n2. Celsius to Fahrenheit\n3. Exit\n"))
     
